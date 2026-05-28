@@ -32,7 +32,7 @@ This project focuses on analyzing Amazon sales data to identify sales trends, to
 🔹 Screenshots / Demo
 
 Show what the dashboard looks like.
-Example:
+Example:https://github.com/nehalanjekar0211-tech/Amazon-sales-Dashboard/blob/main/snapshot%20of%20amazon%20sales%20data.png
 
  🔹 Conclusion
 
